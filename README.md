@@ -1,4 +1,7 @@
-# Hi there, I'm Puva! 👋
+# Hi there, I'm Sudhakar B! 👋
+ A curious coder on a journey to craft meaningful solutions with Java, web technologies, and a bit of data magic. 🌟 I believe in building things that matter, one line of code at a time. 💻
+
+Feel free to explore my projects, open an issue, or just leave a 🌱. Let’s create, collaborate, and innovate together! ✨
 
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer & Data Analyst** currently learning and building awesome projects in:
