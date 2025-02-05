@@ -7,7 +7,7 @@ Feel free to explore my projects, open an issue, or just leave a 🌱. Let’s c
 I'm a passionate **Full Stack Developer & Data Analyst** currently learning and building awesome projects in:
 - 💻 **Java (OOP, Problem Solving)**
 - 🌐 **Frontend Development (HTML, CSS, JavaScript, React - Learning)**
-- 🛢 **SQL & Data Analysis (Pandas, Seaborn, Machine Learning - Learning)**
+- 🛢 **SQL & Data Analysis (Learning)**
 - 🏗 **Git & GitHub for Version Control**
 - 📊 **Microsoft Office Suite**
 
